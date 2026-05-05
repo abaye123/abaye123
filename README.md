@@ -6,21 +6,21 @@ I like schnitzel and pizza.
 
 ## 🎯 Current Focus
 
-**WinUI 3 & .NET 8** — because a great UI isn't just design, it's experience:
+**WinUI 3 & .NET 8** - because a great UI isn't just design, it's experience:
 - Mica, full RTL support, and Fluent Design that actually works in Hebrew
 - Architectures that survive real users, not just the debugger
 
-**Vue with Quasar & DaisyUI** — when I need a fast, polished SPA with components that just work out of the box.
+**Vue with Quasar & DaisyUI** - when I need a fast, polished SPA with components that just work out of the box.
 
-**React with Next.js & shadcn/ui** — for SSR, server actions, and a design system I can actually trust.
+**React with Next.js & shadcn/ui** - for SSR, server actions, and a design system I can actually trust.
 
-**Tailwind CSS** — because writing CSS in 2026 without it feels like writing JavaScript without `const`.
+**Tailwind CSS** - because writing CSS in 2026 without it feels like writing JavaScript without `const`.
 
-**Prisma with PostgreSQL & MySQL** — type-safe queries, clean migrations, and a schema that's actually readable six months later.
+**Prisma with PostgreSQL & MySQL** - type-safe queries, clean migrations, and a schema that's actually readable six months later.
 
-**Node.js & Go on the server** — Node when I want to ship fast, Go when I want it to scream.
+**Node.js & Go on the server** - Node when I want to ship fast, Go when I want it to scream.
 
-And sometimes a little **Python and C++** — based on what the problem needs, not what's trendy.
+And sometimes a little **Python and C++** - based on what the problem needs, not what's trendy.
 
 ---
 
@@ -29,18 +29,18 @@ And sometimes a little **Python and C++** — based on what the problem needs, n
 ### 🌐 [TapLingo](https://github.com/abaye123/TapLingo)
 > One-click translation from anywhere on Windows 11
 
-Full integration with Windows 11's **Click to Do** — select text, get a translation in a floating Mica window within a second. Supports Google Translate and DeepL, ~20 languages, automatic language detection, and full RTL.
+Full integration with Windows 11's **Click to Do** - select text, get a translation in a floating Mica window within a second. Supports Google Translate and DeepL, ~20 languages, automatic language detection, and full RTL.
 
 `C#` · `WinUI 3` · `Windows App SDK`
 
 ### 🖥️ [Kolsites](https://github.com/abaye123/Kolsites)
-> Kiosk software for public terminals — locked down, smart, and crash-resistant
+> Kiosk software for public terminals - locked down, smart, and crash-resistant
 
 An always-on-top floating button that opens a fullscreen locked browser: external navigation blocking, adjustable on-screen keyboard, custom per-site scripts, **PBKDF2** password hashing with brute-force lockout, and a Watchdog that brings the app back to life if anything crashes.
 
 `C#` · `WinUI 3` · `WebView2`
 
-### 📅 [Itim — Hebrew Calendar](https://github.com/abaye123/ItimHebrewCalendar)
+### 📅 [Itim - Hebrew Calendar](https://github.com/abaye123/ItimHebrewCalendar)
 > A Hebrew calendar for Windows that does what Microsoft forgot to
 
 Dynamic tray icon that re-renders a calendar page with the Hebrew date every day, a quick popup with halachic times of day, a date converter that even understands **gematria** (ט"ו בתשפ"ו), and a P/Invoke bridge to Go (`hebcal-go`) alongside KosherJava as an alternative computation engine.
