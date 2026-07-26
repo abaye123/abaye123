@@ -2,9 +2,13 @@
 I am abaye 😊,
 I like schnitzel and pizza.
 
+🌐 [abaye.co](https://abaye.co)
+
 ---
 
 ## 🎯 Current Focus
+
+**Derech Kohanim** - my main project right now: a live navigation system that routes around areas Kohanim need to avoid. Turn-by-turn guidance in Hebrew, on the web and on Android. Currently in early beta - feedback welcome. ([derech-kohanim.dinobycloud.com](https://derech-kohanim.dinobycloud.com))
 
 **WinUI 3 & .NET 8** - because a great UI isn't just design, it's experience:
 - Mica, full RTL support, and Fluent Design that actually works in Hebrew
@@ -25,6 +29,17 @@ And sometimes a little **Python and C++** - based on what the problem needs, not
 ---
 
 ## 🚀 Featured Projects
+
+### 🚗 [Derech Kohanim](https://derech-kohanim.dinobycloud.com)
+> Live navigation for Kohanim - a clean route, planned in advance
+
+Turn-by-turn navigation with Hebrew voice guidance that plans around restricted areas, with **three strictness levels** (data courtesy of Hitachdut Taharat HaKohanim), plus avoidance of Area A and toll roads. Tells you **up front** if no clean route exists - not halfway there. Alternative routes with live Google traffic ETAs, a driving-style 3D map that rotates and auto-zooms with your speed, and tappable areas showing name, city and explanation.
+
+Works on the web and as an Android app. On filtered networks the map falls back automatically to an OSM-based tile source (Netfree certificates are bundled in the app - nothing to install), and the route, area data and voice instructions are downloaded at the start of the drive, so navigation keeps running with no signal at all.
+
+🔗 **Try it:** https://derech-kohanim.dinobycloud.com
+
+*Currently in early beta - feedback very welcome.*
 
 ### 🌐 [TapLingo](https://github.com/abaye123/TapLingo)
 > One-click translation from anywhere on Windows 11
